@@ -38,10 +38,6 @@ Tkinter 🖼️: For the graphical user interface (GUI).
 ![Screenshot 2024-10-01 143158](https://github.com/user-attachments/assets/adfa10b0-a6d8-4da6-9b60-d0e478d26350)
 
 
-# 📚 Documentation
-For more detailed information, please visit the Documentation Page.
-
-<!-- Replace with your documentation link if available -->
 # 🤝 Contributing
 Welcome contributions! Feel free to fork the repository and submit a pull request. Check out our Contributing Guidelines for more information.
 
